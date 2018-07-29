@@ -1,4 +1,7 @@
-jfhkehkjlwhrwklja
+<<<<<<< HEAD
+=======
+feewrw23
+>>>>>>> first_new_branch
 I shouldve done this earlier.
 Add message to the committ.
 Unicode is bad.
